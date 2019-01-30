@@ -1,0 +1,15 @@
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojResolveAssemblyReference.cache
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.Cache
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+c:\users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Giris.resources
+C:\Users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Dersler.resources
+C:\Users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Menu.resources
+C:\Users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Karne.resources
+C:\Users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.NotHesaplama.resources
+C:\Users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\MyControl.dll
+C:\Users\sercan\documents\visual studio 2013\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\MyControl.pdb
